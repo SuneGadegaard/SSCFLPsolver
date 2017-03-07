@@ -14,6 +14,6 @@ The instances we have tested the algorithm on are all publichly available.
 
 2) 71 instances from K. Holmberg, M. Rönnqvist and D. Yuan's paper "An Exact Algorithm for the Capacitated Facility Location Problems with Single Sourcing" in European Journal of Operational Research 113, 1999, pp. 544-559 are all publicly available at http://www.kajh.se/vineopt/problemdata/cloc/index.html
 
-3) 20 instances from Z. Yang, F. Chu, and H. Chen. "A cut-and-solve based algorithm for the single-source capacitated facility location problem." European Journal of Operational Research 221.3, 2012, pp. 521-532 is available at 
+3) 20 instances from Z. Yang, F. Chu, and H. Chen. "A cut-and-solve based algorithm for the single-source capacitated facility location problem." European Journal of Operational Research 221.3, 2012, pp. 521-532 is available at his repository.
 
 4) 45 instances used in this work are all available in the .zip folder named All_instances_for_Imp_CnS.zip available at this repository.
