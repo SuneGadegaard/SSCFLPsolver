@@ -23,8 +23,7 @@
 *
 * If you use the software in any academic work, please make a reference to
 *
-* S.L. Gadegaard and A. Klose and L.R. Nielsen, (2015), ``An exact algorithm based on cutting planes
-* and local branching for the single source capacitated facility location problem'', Technical report, CORAL, Aarhus University, sgadegaard\@econ.au.dk.
+* S.L. Gadegaard and A. Klose and L.R. Nielsen, (2018), ``An improved cut-and-solve algorithm for the single-source capacitated facility location problem", The EURO Journal on Computational Optimization
 *
 * \section Description
 *
